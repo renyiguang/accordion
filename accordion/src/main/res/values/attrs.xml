@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="AccordionLayout">
+        <attr name="itemWidth" format="reference|dimension"></attr>
+        <attr name="divideWidth" format="reference|dimension"/>
+        <attr name="divideColor" format="reference|color"/>
+    </declare-styleable>
+
+</resources>
