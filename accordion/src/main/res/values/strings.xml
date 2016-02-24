@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">accordion</string>
+
+    <string type="id" name="tag_item_shadow" />
 </resources>
